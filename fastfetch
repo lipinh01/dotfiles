@@ -27,19 +27,19 @@
     {
             "type": "os",
             "key": "{icon} OS",
-            "keyColor": "red"
+            "keyColor": "blue"
         },
 
     {
             "type": "host",
             "key": "{icon} host",
-            "keyColor": "red"
+            "keyColor": "blue"
         },
 
     {
             "type": "kernel",
             "key": "{icon} kernel",
-            "keyColor": "red"
+            "keyColor": "blue"
         },
 
     {
@@ -50,19 +50,19 @@
   {
             "type": "gpu",
             "key": "{icon} gpu",
-            "keyColor": "red"
+            "keyColor": "blue"
         },
 
            {
             "type": "disk",
             "key": "{icon} disk",
-            "keyColor": "red"
+            "keyColor": "blue"
         },
 
         {
             "type": "memory",
             "key": "{icon} memory",
-            "keyColor": "red"
+            "keyColor": "blue"
         },
 
     {
@@ -73,31 +73,31 @@
        {
             "type": "terminal",
             "key": "{icon} terminal",
-            "keyColor": "red"
+            "keyColor": "blue"
         },
 
            {
             "type": "wmtheme",
             "key": "{icon} wmtheme",
-            "keyColor": "red"
+            "keyColor": "blue"
         },
 
            {
             "type": "shell",
             "key": "{icon} shell",
-            "keyColor": "red"
+            "keyColor": "blue"
         },
 
            {
             "type": "de",
             "key": "{icon} de",
-            "keyColor": "red"
+            "keyColor": "blue"
         },
 
            {
             "type": "wm",
             "key": "{icon} wm",
-            "keyColor": "red"
+            "keyColor": "blue"
         },
 
 
